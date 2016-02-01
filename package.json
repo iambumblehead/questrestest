@@ -1,0 +1,10 @@
+{
+  "name": "questretest",
+  "main": "src/questretest",
+  "version": "0.0.1",
+  "description": "automated, repeated to a service",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
